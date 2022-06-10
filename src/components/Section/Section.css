@@ -1,0 +1,16 @@
+.section-container {
+    padding: 4rem;
+    background-color: rgb(231, 226, 226);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.section-item >h1 {
+    color: #252e48;
+    font-size: 18px;
+    line-height: 24px;
+}
+.section-item > p{
+    color: black;
+
+}
